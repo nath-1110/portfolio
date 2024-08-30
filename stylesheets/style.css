@@ -246,6 +246,11 @@ a:hover {
   }
 
 
+  #contentheader {
+
+  font-size: x-large;
+}
+
 }
 
 @media screen and (max-width: 480px) {
@@ -274,6 +279,12 @@ a:hover {
 
   .wrap{
 font-size: 2.3em;  
+}
+#contentheader {
+
+  font-size: x-large;
+}
+
 }
 
 .intermediate{
